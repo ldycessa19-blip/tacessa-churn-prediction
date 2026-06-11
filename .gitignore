@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+
+# File percobaan
+nyoba.py
+nyoba2.py
+
+# Model besar — diupload terpisah jika perlu
+# output_baru/champion_model.pkl
