@@ -28,6 +28,7 @@ Dipilih berdasarkan nilai F1-Score tertinggi pada distribusi data asli tanpa SMO
 ---
 
 ## Struktur Repository
+```bash
 tacessa-churn-prediction/
 │
 ├── app.py              # Flask API — serve Champion Model
